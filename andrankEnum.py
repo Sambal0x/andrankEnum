@@ -19,7 +19,7 @@ BANNER = '''
 =========================
 '''
 
-def get_package(max_apk=500,price="free",threads=25):
+def get_package(max_apk=500,price="free",threads=5):
     """
     Scrap 'https://https://www.androidrank.org/app/ranking/all?start=<pages>&price=<price>' to find
     individual APK pages
