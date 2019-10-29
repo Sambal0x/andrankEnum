@@ -14,5 +14,5 @@ Thanks @initstring for the help with go.py
 
 ## Extra tools
 * **go.py** - Extracts all the URLs to for downloading the APK files
-* **deeplink_check.sh** - Extracts any handlers from AndroidManifest and search the decompiled APK folder for interesting deeplinks
+* **deeplink_check.sh** - Extracts any handlers from AndroidManifest and search the decompiled APK folder for interesting deeplinks (i.e. quick wins)
 ![Deeplink_check.sh demo](deeplink.JPG)
