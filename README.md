@@ -10,3 +10,8 @@ https://chrome.google.com/webstore/detail/apk-downloader/fgljidimohbcmjdabiecfei
 No more BS downloading APK from mobile device and extract it via ADB pull.
 
 Thanks @initstring for the help with go.py
+
+
+## Extra tools
+* go.py - Extracts all the URLs to for downloading the APK files
+* deeplink_check.sh - Extracts any handlers from AndroidManifest and search the decompiled APK folder for interesting deeplinks
